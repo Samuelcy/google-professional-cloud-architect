@@ -1,6 +1,6 @@
 # Google Cloud Associate Engineer - Notes
 
-[Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer/)
+[Professional Cloud Architect](https://cloud.google.com/learn/certification/cloud-architect)
 
 My goal this summer is to get my cloud certification !
 
@@ -56,21 +56,16 @@ My goal this summer is to get my cloud certification !
 
 ## Exam Description
 
-An Associate Cloud Engineer deploys and secures applications, services, and infrastructure, monitors operations of multiple projects, and maintains enterprise solutions to ensure that they meet target performance metrics. This individual has experience working with public clouds and on-premises solutions. They are able to perform common platform-based tasks to maintain and scale one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.
+Professional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
 
 ## Preparation
 
 - Official Exam Guide: [X](X)
 - Official Sample Questions: [X](X)
 
-- The exam may contain two types of questions:
-    - Multiple choice
-    - Multiple response
-
+- Registration fe: $200
 - Minimum passing score: X
-- Number of questions: 50-60
-- Time: 120
-  
-## Credits
-- These notes are based on the [x](x)
+- Number of questions: 50-60 multiple choice and multiple select questions
+- Case studies: Each exam includes 2 case studies that describe fictitious business and solution concepts. Case study questions make up 20-30% of the exam and assess your ability to apply your knowledge to a realistic business situation. You can view the case studies on a split screen during the exam. 
+- Time: 120 minutes
 
