@@ -29,7 +29,7 @@ Symmetric Key Encryption
 
 Asymmetric Key Encryption
 - Two Keys: Public and Private Key'
-- Also called Public Key Cryptogrpahy
+- Also called Public Key Cryptography
 - Encrypt data with Public Key and decrypt with Private Key
 - Share Public Key with eveyrbody and keep the Private Key with you (its private)
 -
