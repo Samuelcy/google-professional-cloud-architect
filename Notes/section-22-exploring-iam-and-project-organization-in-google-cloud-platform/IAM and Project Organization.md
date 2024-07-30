@@ -7,7 +7,7 @@ Resource Hierarchy in GCP
 Resource Hierarchy - Recommendations for Enterprises
 - Create separate project for different environments:
 	- Complete isolation between test and production environments
-- Create separate folderes for each department:
+- Create separate folders for each department:
 	- Isolate production applications of one department from another
 	- We can create a shared folder for shared resources
 - One project per application per environment:
@@ -58,7 +58,7 @@ IAM Members / Identities
 - Service account - Represents an application account (Not person)
 - Google group - Collection - Google & Service Accounts
 	- Has an unique email address
-	- Helps to apply access ploicy to a group
+	- Helps to apply access policy to a group
 - Google Workshop domain: Google Workspace provides collaboration services for enterprises:
 	- Tools like Gmail, Calendar, Meet, Chat, Drive, Docs etc are included
 	- If your enterprise is using Google Workspace, you can manage permissions using your Google Workspace domain
@@ -88,7 +88,7 @@ Cloud BigQuery Role
 
 
 Corporate Directory Federation
-- Federate Cloud Identity or Google Worksapce with your external identity provider (IdP) such as Active Directory or Azure AD
+- Federate Cloud Identity or Google Workspace with your external identity provider (IdP) such as Active Directory or Azure AD
 - Enable Single Sign On:
 	- 1: Users are redirected to an external IdP to authenticate
 	- 2: When users are authenticated, SAML aseertion is sent to Google Sign-In
